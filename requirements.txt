@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+nltk==3.7
+torch
+transformers
+scikit-learn
+wordcloud
+tqdm
